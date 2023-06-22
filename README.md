@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya Muhammad Arsyad<br>saat ini sedang menempuh S1 Matematika di Universitas Sebelas Maret<br>di luar kampus saya belajar machine learning dan artificial intelligence
+Nama saya Muhammad Arsyad, saat ini saya sedang menempuh pendidikan S1 Matematika di Universitas Sebelas Maret. Sepanjang studi saya, saya telah menemukan minat dan kemampuan yang kuat di bidang Data Science, Data Analysis, dan Machine Learning. Saya menikmati belajar dan mengeksplorasi teknologi terbaru yang digunakan di bidang ini dan berusaha untuk meningkatkan keterampilan saya melalui berbagai proyek yang saya kerjakan. Saya yakin bahwa minat dan kemampuan saya di bidang ini akan membantu saya mencapai tujuan karir saya di masa depan.
 
 
 ## 🌐 Socials:
